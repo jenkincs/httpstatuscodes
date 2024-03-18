@@ -1,0 +1,19 @@
+{
+  "name": "httpstatuscodes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "dedent": "^1.5.1",
+    "next": "14.1.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-syntax-highlighter": "^15.5.0"
+  }
+}

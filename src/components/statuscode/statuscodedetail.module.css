@@ -1,0 +1,37 @@
+.statusCodeContainer {
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+  }
+  
+  .title {
+    color: #0070f3;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .section {
+    margin-bottom: 15px;
+  }
+  
+  .sectionTitle {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+
+  .listitem{
+    margin-bottom: 10px;
+  }
