@@ -5,7 +5,7 @@ import { httpStatusCodes } from "./utils/data/httpstatuscodes";
 const URL = process.env.SITE_URL;
 
 export default async function sitemap() {
-  const httpstatuscodes = httpStatusCodes.map(({ code }) => ({
+  const httpstatuscodes = Object.entries(httpStatusCodes).map(([code, meaning]) => ({
     url: `${URL}/statuscode/${code}`,
     lastModified: new Date().toISOString(),
   }));
