@@ -3,7 +3,8 @@ import StatusCodeDetail from '@/components/statuscode/statuscodedetail';
 import styles from './status.module.css';
 
 const HttpStatusPage = ({params}) => {
-    const { code } = params;
+    const { codemeaning } = params;
+    const code = codemeaning.split('-')[0];
     return (
         <div>
             <Head>
