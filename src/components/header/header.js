@@ -21,7 +21,7 @@ const Header = () => {
                 </div>
                 <div>
                     <h1>
-                        <a href="/"rel="noopener noreferrer">HTTP Status Codes</a>
+                        <a href="/"rel="noopener noreferrer" title='HTTP Status Codes'>HTTP Status Codes</a>
                     </h1>
                 </div>
             </div>

@@ -17,7 +17,7 @@ export default function Home() {
                     //use Link to navigate to the status code page
                     <ul key={code}>
                       <li className={styles.codeitem}>
-                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`} className={styles.customLink}>
+                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`} title={`${code} ${meaning}`} className={styles.customLink}>
                         {code} - {meaning}
                         </Link>
                       </li>
@@ -29,7 +29,7 @@ export default function Home() {
                     //use Link to navigate to the status code page
                     <ul key={code}>
                       <li className={styles.codeitem}>
-                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  className={styles.customLink}>
+                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  title={`${code} ${meaning}`} className={styles.customLink}>
                         {code} - {meaning}
                         </Link>
                       </li>
@@ -41,7 +41,7 @@ export default function Home() {
                     //use Link to navigate to the status code page
                     <ul key={code}>
                       <li className={styles.codeitem}>
-                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  className={styles.customLink}>
+                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  title={`${code} ${meaning}`} className={styles.customLink}>
                         {code} - {meaning}
                         </Link>
                       </li>
@@ -53,7 +53,7 @@ export default function Home() {
                     //use Link to navigate to the status code page
                     <ul key={code}>
                       <li className={styles.codeitem}>
-                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  className={styles.customLink}>
+                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`} title={`${code} ${meaning}`}  className={styles.customLink}>
                         {code} - <span>{meaning}</span>
                         </Link>
                       </li>
@@ -65,7 +65,7 @@ export default function Home() {
                     //use Link to navigate to the status code page
                     <ul key={code}>
                       <li className={styles.codeitem}>
-                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  className={styles.customLink}>
+                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`} title={`${code} ${meaning}`}  className={styles.customLink}>
                         {code} - {meaning}
                         </Link>
                       </li>
@@ -77,7 +77,7 @@ export default function Home() {
                     //use Link to navigate to the status code page
                     <ul key={code}>
                       <li className={styles.codeitem}>
-                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`}  className={styles.customLink}>
+                        <Link href={`/statuscode/${code}-${meaning.toLowerCase().replaceAll(' ','-')}`} title={`${code} ${meaning}`}  className={styles.customLink}>
                         {code} - {meaning}
                         </Link>
                       </li>
