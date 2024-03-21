@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.httpstatuscodes.cc/</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/100-continue</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/101-switching-protocols</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/102-processing</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/103-early-hints</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/200-ok</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/201-created</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/202-accepted</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/203-non-authoritative-information</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/204-no-content</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/205-reset-content</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/206-partial-content</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/207-multi-status</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/208-already-reported</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/226-im-used</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/300-multiple-choices</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/301-moved-permanently</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/302-found</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/303-see-other</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/304-not-modified</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/305-use-proxy</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/307-temporary-redirect</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/308-permanent-redirect</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/400-bad-request</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/401-unauthorized</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/402-payment-required</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/403-forbidden</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/404-not-found</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/405-method-not-allowed</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/406-not-acceptable</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/407-proxy-authentication-required</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/408-request-timeout</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/409-conflict</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/410-gone</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/411-length-required</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/412-precondition-failed</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/413-payload-too-large</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/414-uri-too-long</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/415-unsupported-media-type</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/416-range-not-satisfiable</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/417-expectation-failed</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/418-i&amp;#x27;m-a-teapot</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/421-misdirected-request</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/422-unprocessable-entity</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/423-locked</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/424-failed-dependency</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/425-too-early</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/426-upgrade-required</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/428-precondition-required</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/429-too-many-requests</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/431-request-header-fields-too-large</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/451-unavailable-for-legal-reasons</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/500-internal-server-error</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/501-not-implemented</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/502-bad-gateway</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/503-service-unavailable</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/504-gateway-timeout</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/505-http-version-not-supported</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/506-variant-also-negotiates</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/507-insufficient-storage</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/508-loop-detected</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/510-not-extended</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.httpstatuscodes.cc/statuscode/511-network-authentication-required</loc>
+  <lastmod>2024-03-21T14:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
